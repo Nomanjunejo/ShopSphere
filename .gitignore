@@ -1,0 +1,14 @@
+# Frontend junk
+frontend/shopsphere/node_modules/
+frontend/shopsphere/dist/
+.env
+
+# Backend junk
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# OS junk
+.DS_Store
+Thumbs.db
